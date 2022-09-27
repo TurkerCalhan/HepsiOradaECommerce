@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiemensECommerce.UI", "SiemensECommerce.UI\SiemensECommerce.UI.csproj", "{0883AB98-D48B-45F7-A3E9-5D62E2970CA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiemensECommerce.Data", "SiemensECommerce.Data\SiemensECommerce.Data.csproj", "{C8BF60D2-355C-4104-BBA0-BD6176B4E5C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiemensECommerce.Business", "SiemensECommerce.Business\SiemensECommerce.Business.csproj", "{9720A5DB-91C1-4B8F-994A-32E9DD18D49B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiemensECommerce.OOPSample", "SiemensECommerce.OOPSample\SiemensECommerce.OOPSample.csproj", "{AF2B1CAA-242C-47AE-B972-AAC6820117C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiemensECommerce.Test", "SiemensECommerce.Test\SiemensECommerce.Test.csproj", "{DD9D4DFA-D856-4F04-BEC9-9C0578C1D22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0883AB98-D48B-45F7-A3E9-5D62E2970CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0883AB98-D48B-45F7-A3E9-5D62E2970CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0883AB98-D48B-45F7-A3E9-5D62E2970CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0883AB98-D48B-45F7-A3E9-5D62E2970CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BF60D2-355C-4104-BBA0-BD6176B4E5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BF60D2-355C-4104-BBA0-BD6176B4E5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BF60D2-355C-4104-BBA0-BD6176B4E5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BF60D2-355C-4104-BBA0-BD6176B4E5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9720A5DB-91C1-4B8F-994A-32E9DD18D49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9720A5DB-91C1-4B8F-994A-32E9DD18D49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9720A5DB-91C1-4B8F-994A-32E9DD18D49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9720A5DB-91C1-4B8F-994A-32E9DD18D49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2B1CAA-242C-47AE-B972-AAC6820117C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2B1CAA-242C-47AE-B972-AAC6820117C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2B1CAA-242C-47AE-B972-AAC6820117C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2B1CAA-242C-47AE-B972-AAC6820117C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9D4DFA-D856-4F04-BEC9-9C0578C1D22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9D4DFA-D856-4F04-BEC9-9C0578C1D22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9D4DFA-D856-4F04-BEC9-9C0578C1D22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9D4DFA-D856-4F04-BEC9-9C0578C1D22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9039DCC6-7CAA-4C11-8FC3-792D37D9496A}
+	EndGlobalSection
+EndGlobal
